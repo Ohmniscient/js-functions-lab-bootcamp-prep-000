@@ -1,5 +1,5 @@
-var happyHolidays = function happyHolidays(); {
-  return ("Happy Holidays!")
+var a = function happyHolidays(); {
+  return ("Happy holidays!")
 }
 
 function happyHolidaysTo(name) {
